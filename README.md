@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Atnateos! 👋
 
-<!--
-**Atnateos/atnateos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇪🇹 Electrical & Computer Engineering Student | Addis Ababa University
+### Full-stack Developer 
 
-Here are some ideas to get you started:
+I am a senior ECE student at **Addis Ababa University** with a deep interest in software quality and system architecture. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 💻 Programming Languages:** Python, Java, JavaScript 
+## 🛠️ My Engineering Toolkit
+- **Hardware/Low-level:** Engineering Logic & Circuit Design (AAU ECE Foundation)
+- **Frontend Development:** HTML, React 19, Tailwind CSS, Vite
+- **Database:** PostgreSQL, MySQL
+- **Backend:** Node.js, Express
+
+---
+
+## 🎓 Academic & Professional Focus
+Currently focusing on **Software Quality Assurance (SQA)** and **Full-stack Web Ecosystems**.
+
+---
+
+## 📫 Let's Connect:
+- 📍 Based in Addis Ababa, Ethiopia
+- 🎓 Addis Ababa University (AAU) - School of Electrical and Computer Engineering
+- 💼 zatnateos@gmail.com
