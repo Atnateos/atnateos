@@ -12,7 +12,7 @@ I am a senior ECE student at **Addis Ababa University** with a deep interest in 
 - **Frontend Development:** HTML, React 19, Tailwind CSS, Vite
 - **Database:** PostgreSQL, MySQL
 - **Backend:** Node.js, Express
-🏆 HackerRank Certified: [Python (Basic)](https://www.hackerrank.com/certificates/c63a59885e95) | [SQL (Basic)](https://www.hackerrank.com/certificates/22781398345f)
+**🏆 HackerRank Certified: [Python (Basic)](https://www.hackerrank.com/certificates/c63a59885e95) | [SQL (Basic)](https://www.hackerrank.com/certificates/22781398345f)
 ---
 
 ## 🎓 Academic & Professional Focus
