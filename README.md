@@ -13,7 +13,7 @@ I am a senior ECE student at **Addis Ababa University** with a deep interest in 
 - **Database:** PostgreSQL, MySQL
 - **Backend:** Node.js, Express
 
-🏆 HackerRank Certified: [Python (Basic)](https://www.hackerrank.com/certificates/c63a59885e95) | [SQL (Basic)](https://www.hackerrank.com/certificates/22781398345f)
+🏆 HackerRank Certified: [Python (Basic)](https://www.hackerrank.com/certificates/c63a59885e95) | [SQL (Basic)](https://www.hackerrank.com/certificates/22781398345f) | [JavaScript (Baic)] (https://www.hackerrank.com/certificates/97d42f1ea4cb)
 ---
 
 ## 🎓 Academic & Professional Focus
